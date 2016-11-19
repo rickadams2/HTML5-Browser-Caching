@@ -1,1 +1,3 @@
 # HTML5-Browser-Caching
+
+The syntax for using local storage and offline caching is simple, but the implementation details can easily leave you frustrated. Existing blog posts ignore the finer points of this nuanced API. For this course, we brought in W3C committee member Ben Schwarz to show us how it's done. In only an hour you'll learn about how to speed up the user experience for online and offline applications, basic syntax for caching files and data in the browser, browser tools and development workflow to help debugging and avoid frustration, how to steer around bugs, restrictions, and pitfalls, and how to use the Rails 3 asset pipeline with browser caching.
